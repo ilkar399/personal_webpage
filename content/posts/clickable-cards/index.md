@@ -1,8 +1,8 @@
 ---
-title: Accessible Clickable Cards
-description: Clickable cards with multiple child links
+title: Sample
+description: Sample Post
 date: 2021-04-21
-draft: false
+draft: true
 slug: /pensieve/clickable-cards
 tags:
   - Accessibility
