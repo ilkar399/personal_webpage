@@ -9,5 +9,4 @@ url: ''
 
 - Created and implemented internal IT monitoring system
 - Implemented and maintained local documentation subsystems that improved internal process workflow
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
 - Communicated with multi-disciplinary teams of engineers, analysts, economists and clients on a daily basis
