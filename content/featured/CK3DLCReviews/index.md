@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Crusader King III: Royal Court Review Data Analysis'
 cover: './demo.png'
 github: 'https://github.com/ilkar399/CK3DLCReviews'

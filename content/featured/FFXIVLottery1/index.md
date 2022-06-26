@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Final Fantasy XIV: First Housting Lottery on Chaos Datacenter'
 cover: './demo.png'
 github: ''
