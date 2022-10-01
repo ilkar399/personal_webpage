@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Final Fantasy XIV: First Housting Lottery on Chaos Datacenter'
+title: 'Final Fantasy XIV: Housting Lottery'
 cover: './demo.png'
 github: ''
 external: 'https://public.tableau.com/views/FinalFantatsyXIV-HousingLottery1ChaosDatacenter/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link'

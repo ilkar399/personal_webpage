@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Pathfinder: Wrath of The Righteous: 2022 Valentine Project'
+title: 'Pathfinder 2022 Valentine Day'
 cover: './demo.png'
 github: ''
 external: 'https://twitter.com/ilkarius'
