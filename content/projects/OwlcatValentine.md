@@ -1,13 +1,13 @@
 ---
-date: '4'
+date: '2022-02-14'
 title: 'Pathfinder 2022 Valentine Day'
-cover: './demo.png'
 github: ''
 external: 'https://twitter.com/ilkarius'
 tech:
   - Discord
   - Excel
   - CSV
+showInProjects: true
 ---
 
 This is a small project on analyzing player's romance preferences for the 

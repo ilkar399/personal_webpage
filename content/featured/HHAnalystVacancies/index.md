@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '2'
 title: 'HeadHunter job vacancies analysis'
 cover: './demo.png'
 github: 'https://github.com/ilkar399/HHAnalystVacancies'
